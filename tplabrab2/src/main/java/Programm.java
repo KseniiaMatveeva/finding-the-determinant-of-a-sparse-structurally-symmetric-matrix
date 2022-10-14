@@ -12,12 +12,8 @@ import java.util.Scanner;
  */
 public class Programm {
     
-    //static int N, NZ;
-    //Matrix mtx = new Matrix();
-    
     public static void main(String[] args) {
         int N, NZ;
-        //int mas[];
         Scanner in = new Scanner(System.in);
         System.out.println("Размерность матрицы: ");
         N = in.nextInt();
